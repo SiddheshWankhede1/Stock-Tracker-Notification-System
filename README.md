@@ -4,6 +4,7 @@
 ## 🎯 Project Overview
 
 **Stock Update Tracker** is a real-time stock monitoring and notification system designed to keep investors informed about their portfolio movements.
+This project explain how to design a notification system with proper system design approach.
 
 The application monitors stocks in your portfolio and sends **instant notifications when significant price movements occur**, along with a **short explanation describing the possible reason behind the movement**.
 
